@@ -12,6 +12,8 @@
 
 并且在[config]的“username=”后面填账号，“passwd_old=”后面填更改前的旧密码，“passwd_new=”后面填更改后的新密码。
 
+为了方便使用，我将python脚本做成了exe一起上传。
+
 # Introduction
 English:
 
@@ -24,3 +26,5 @@ There are two items in the config.ini file, namely "[hosts]" and "[config]".
 Fill in the IP address after "ips=" in [hosts], and separate multiple IPs with ",". 
 
 And fill in the account after "username=" in [config], the old password before the change after "passwd_old=", and the new password after the change after "passwd_new=".
+
+For ease of use, I have made the Python script into an exe and uploaded it together.
